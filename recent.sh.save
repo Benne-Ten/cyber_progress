@@ -1,0 +1,12 @@
+#!/bin/bash
+i=0
+total-size=0
+for fichier in $(find ~/dossier_entrainement/ -mtime -1)
+do
+  # faire quelque chose avec $fichier
+  ls -lh $fichier
+  i=$((i+1))
+  total-size=$((total-size+stat -c %s $fichier))
+done
+echo "Total de fichiers trouvés : $i"
+echo $total-size
