@@ -1,0 +1,30 @@
+{
+    "html": {
+        "results": [
+            "Example Domain",
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+            "Learn more",
+            "https://iana.org/domains/example"
+        ],
+        "results_found": 4
+    },
+    "json": {
+        "posts": [],
+        "results_found": 0
+    },
+    "keyword": "alice",
+    "results_found": 5,
+    "sources": {
+        "api": [],
+        "csv": [
+            {
+                "email": "alice@mail.com",
+                "metier": "Dev",
+                "nom": "Alice Martin",
+                "pays": "France",
+                "pseudo": "alice123",
+                "results_found": 1
+            }
+        ]
+    }
+}

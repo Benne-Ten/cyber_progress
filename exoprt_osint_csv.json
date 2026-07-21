@@ -1,0 +1,27 @@
+{
+    "keyword": "a",
+    "results": [
+        {
+            "email": "alice@mail.com",
+            "metier": "Dev",
+            "nom": "Alice Martin",
+            "pays": "France",
+            "pseudo": "alice123"
+        },
+        {
+            "email": "charlie.b@mail.com",
+            "metier": "Pentester",
+            "nom": "Charles Brown",
+            "pays": "UK",
+            "pseudo": "charlie77"
+        },
+        {
+            "email": "diana@company.com",
+            "metier": "Security",
+            "nom": "Diana Prince",
+            "pays": "Canada",
+            "pseudo": "diana_sec"
+        }
+    ],
+    "results_found": 3
+}
